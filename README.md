@@ -20,7 +20,3 @@ After cloning this project on your local machine, go to mapbox.com, create an ac
 [The Unlicense](https://unlicense.org/) 
 
 
-## Contact
-**Finn**
-
-finprogrammer@mailfence.com
